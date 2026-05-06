@@ -103,7 +103,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DHUZFOCX
 
 [Document4]
-DocumentPath=ECG_AFE.SchDoc
+DocumentPath=ECG_AFE_AD1832.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -203,6 +203,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document10]
+DocumentPath=ECG_AFE_ADS1292R.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ANFVBZVE
 
 [Configuration1]
 Name=Sources
