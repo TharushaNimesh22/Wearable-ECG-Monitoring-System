@@ -103,7 +103,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DHUZFOCX
 
 [Document4]
-DocumentPath=ECG_AFE_AD1832.SchDoc
+DocumentPath=ECG_AFE_AD8832.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
