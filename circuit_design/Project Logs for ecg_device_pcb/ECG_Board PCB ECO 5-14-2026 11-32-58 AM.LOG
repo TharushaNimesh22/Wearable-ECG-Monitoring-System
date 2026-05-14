@@ -1,0 +1,47 @@
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C17-1
+Add Pin To Net: Unknown Pin: Pin C17-2
+Add Pin To Net: Unknown Pin: Pin C19-1
+Add Pin To Net: Unknown Pin: Pin C19-2
+Add Pin To Net: Unknown Pin: Pin C20-1
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Added Pin To Net: NetName=VBUCK Pin=U2-6
+Added Pin To Net: NetName=VOUT Pin=U5-5
+Add Class Member: Failed to add class member : Component C1 10uf
+Add Class Member: Failed to add class member : Component C2 10uf
+Add Class Member: Failed to add class member : Component C3 Template for SMD cap
+Add Class Member: Failed to add class member : Component C4 22uf
+Add Class Member: Failed to add class member : Component C6 4.7uF
+Add Class Member: Failed to add class member : Component C7 100nF
+Add Class Member: Failed to add class member : Component C8 100nF
+Add Class Member: Failed to add class member : Component C9 100nF
+Add Class Member: Failed to add class member : Component C10 100nF
+Add Class Member: Failed to add class member : Component C13 10nF
+Add Class Member: Failed to add class member : Component C14 1uF
+Add Class Member: Failed to add class member : Component C17 1uf
+Add Class Member: Failed to add class member : Component C19 1uf
+Add Class Member: Failed to add class member : Component C20 4.7uf
+Add Class Member: Failed to add class member : Component C21 Template for SMD cap
