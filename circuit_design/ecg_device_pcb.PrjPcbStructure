@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=ECG_AFE_AD8832.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ECG_AFE_AD8832.SchDoc|FileName=ECG_AFE_ADS1292.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ECG_AFE_AD8832.SchDoc|FileName=ECG_BLE_radio.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ECG_AFE_AD8832.SchDoc|FileName=ECG_IO_HMI.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ECG_AFE_AD8832.SchDoc|FileName=ECG_MCU_Core.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ECG_AFE_AD8832.SchDoc|FileName=ECG_PWR_MGMT.SchDoc|SheetNumber=1
