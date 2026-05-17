@@ -171,7 +171,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WLFDLBIQ
 
 [Document8]
-DocumentPath=ECG_AFE_ADS1292R.SchDoc
+DocumentPath=STM32WBA52_Core.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
