@@ -1,0 +1,9 @@
+[submodule "enclosure_final"]
+	path = enclosure_final
+	url = https://github.com/Dulith-Kavinda/Inteliwave_enclosure.git
+[submodule "inteliwave_app"]
+	path = inteliwave_app
+	url = https://github.com/Dulith-Kavinda/Intelliwave_MobileApp.git
+[submodule "intelliwave_web"]
+	path = intelliwave_web
+	url = https://github.com/Dulith-Kavinda/intelliwave_web.git
